@@ -1,0 +1,28 @@
+{
+  "name": "op-z-theme",
+  "displayName": "OP-Z inspired theme",
+  "description": "A theme inspired by the Teenage Enginnering OP-Z Synthesizer",
+  "version": "1.0.0",
+  "publisher": "Johannes Bugiel",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "OP-Z Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/op-z-dark.json"
+      },
+      {
+        "label": "OP-Z Light",
+        "uiTheme": "vs-light",
+        "path": "themes/op-z-light.json"
+      }
+    ]
+  }
+}
