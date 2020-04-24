@@ -112,7 +112,7 @@
     "editorOverviewRuler.errorForeground": "#bf1f2f7f",
     "editorOverviewRuler.warningForeground": "#0086bc7f",
     "editorOverviewRuler.infoForeground": "#0086bc7f",
-    "editorError.foreground": "#c5c5ca",
+    "editorError.foreground": "#bf1f2f",
     "editorError.border": "#c5c5ca",
     "editorWarning.foreground": "#bf1f2f",
     "editorWarning.border": "#c5c5ca",
