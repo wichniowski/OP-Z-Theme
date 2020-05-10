@@ -2,7 +2,7 @@
 
 <img src="./icon.svg" alt="artefakt logo" width="100">
 
-OP-Z is a VS Code theme inspired by the color palette used by Teenage Engineering for the OP-Z Synthesizer.
+OP-Z is a VS Code theme inspired by the color palette used by Teenage Engineering for the [OP-Z Synthesizer](https://teenage.engineering/products/op-z).
 OP-Z offers a dark and light variation. Feel free to open PR's to fix stuff.
 
 ## Dark
